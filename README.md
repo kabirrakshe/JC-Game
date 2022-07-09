@@ -12,7 +12,8 @@ Moves can do the following:
 
 
 
-Casca/Brutus: Stabs (True to the story of Julius’s historical death)
+Individual Card Powers:
+- Casca/Brutus: Stabs (Reduce hp drastically)
 - Archers: Arrow Shots (reduces health of target card)
 - Antony: Vanquish (Halves the health of target card)
 - Cinna: Bribery (50% Chance of target enemy's death/ 50% chance of own death)
